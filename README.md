@@ -9,7 +9,7 @@ Literally a port of the Nyarch's app: Catgirl Downloader
 ## Features
 - **Randomize Catgirls**;
 - **Randomize Waifus**;
-- **Randomize Banboroo**;
+- **Randomize Banbooru**;
 - **NSFW Mode**: you can search for SFW (Safe For Work) images, NSFW (Not Safe For Work) Images or both;
 - **Has got keyboard shortcuts!**: press ⌘ + R to refresh and ⌘ + S to download an image.
 
