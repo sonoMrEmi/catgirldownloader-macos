@@ -22,4 +22,4 @@ Literally a port of the Nyarch's app: Catgirl Downloader
 
 ## Building the project
 
-Just open Xcode and select "Open a project", then press ⌘ + B to build and ⌘ + R to run.
+Extract the "project.zip", open Xcode and select "Open a project", select inside the folder you've extracted "catgirldownloader.xcodeproj",then press ⌘ + B to build and ⌘ + R to run.
